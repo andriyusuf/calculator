@@ -1,0 +1,59 @@
+body {
+    background-image: url("background.PNG");
+}
+
+h1 {
+    text-align: center;
+    font-family: "bauhaus 93";
+    color: rgb(8, 128, 150);
+}
+
+div {
+    background-color: #007070;
+    margin: 50px;
+    width: 350px;
+    height: 530px;
+    margin: 0 auto;
+    /* memusatkan elemen secara horizontal */
+    border-radius: 25px;
+    padding: 15px;
+}
+
+header {
+    background-color: #9aafaf;
+    width: 330px;
+    height: 90px;
+    border-radius: 20px;
+    margin: 0 auto;
+    font-size: xx-large;
+    color: #000000;
+    text-align: center;
+
+}
+
+table {
+    font-weight: bold;
+    background-color: #d0eff3;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    border-radius: 20px;
+}
+
+td {
+    width: 110px;
+    height: 60px;
+    text-align: center;
+    font-size: xx-large;
+
+}
+
+.orange {
+    color: #ff3300;
+}
+
+td:active {
+    background-color: #e0e0d1;
+    border-radius: 20px;
+}
